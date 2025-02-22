@@ -63,3 +63,5 @@ Confusion Matrix & Loss Graphs
 
 🤝 Contributing
 Feel free to contribute by submitting pull requests.
+
+Refer The research paper we have made for this project.
