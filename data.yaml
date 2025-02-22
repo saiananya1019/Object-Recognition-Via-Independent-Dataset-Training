@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Classes/YOLOV8pro/data/train/images
+val: /content/drive/MyDrive/Classes/YOLOV8pro/data/valid/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
